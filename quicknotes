@@ -1,0 +1,4 @@
+What are rbegin() and rend()?
+The r stands for reverse.
+- rbegin() points to the last element.
+- rend() represents the position just before the first element when traversing in reverse.
